@@ -10,7 +10,7 @@
 
 <div align=center>
 
-## 🔗 Links to repo listings <sup><sub>(for logged users only)</sub></sup>
+## 🔗 Links to repo listings
 ### [👉  All actions](https://github.com/search?q=org%3Aactions-rindeal+action+in%3Atopics+NOT+alpha+in%3Atopics&type=repositories)
 ### [👉  All other projects](https://github.com/search?q=org%3Aactions-rindeal+NOT+action+in%3Atopics+NOT+alpha+in%3Atopics+NOT+dot-repo+in%3Atopics&type=repositories)
 
