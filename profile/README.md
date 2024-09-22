@@ -10,6 +10,6 @@
 
 <div align=center>
 
-## [List of all projects](https://github.com/search?type=repositories&q=owner%3Aactions-rindeal+is%3Apublic+fork%3Afalse) <sup><sub>(for logged users only)</sub></sup>
+## [👉 🔗 List of all projects](https://github.com/search?type=repositories&q=owner%3Aactions-rindeal+is%3Apublic+fork%3Afalse) <sup><sub>(for logged users only)</sub></sup>
 
 </div>
